@@ -1,0 +1,14 @@
+/* Styles pour le titre */
+h1 {
+    color: blue; /* Couleur du texte en bleu */
+    font-family: Arial, sans-serif; /* Police de caractères */
+}
+
+/* Styles pour le paragraphe */
+p {
+    color: green; /* Couleur du texte en vert */
+    font-family: Helvetica, sans-serif; /* Police de caractères */
+    font-size: 18px; /* Taille du texte */
+    line-height: 1.5; /* Hauteur de ligne */
+}
+
